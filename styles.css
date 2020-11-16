@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headline, .byline {
+    font-family: "Roboto mono", monospace;
+    color: black;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font-size: 1.2em;
+    Font-family: "Montserrat", sans-serif;
+}
+
+.chart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.headline {
+    font-size: 1.8em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+.byline {
+    font-size: 1em;
+}
+
+.bold {
+    Font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+a:link, a:visited {
+    color: #15607a;
+    text-decoration: underline;
+}
+
+.footer, .caption {
+    font-size: .8em;
+    Font-family: "Montserrat", sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    Margin-bottom: 5%;
+}
+
+.notes {
+    padding: -10px;
+    padding-bottom: 5px;
+}
